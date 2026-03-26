@@ -71,4 +71,5 @@ with st.expander("📊 Dataset Info"):
 
 st.markdown("---")
 st.caption("Powered by KNN Regression (n_neighbors=5) | Train R² & Test R² displayed during training")
+st.balloons()
 
